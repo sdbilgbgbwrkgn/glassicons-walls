@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Mesh 1",
+		"name": "Dual Planets",
 		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%201.png",
-		"collections": "MESH",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Dual%20Planets.png",
+		"collections": "PLANETS",
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
@@ -16,7 +16,17 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
-	},{
+	},
+	{
+		"name": "Mesh 1",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%201.png",
+		"collections": "MESH",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
 		"name": "Mesh 2",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%203.png",
@@ -24,7 +34,8 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
-	},{
+	},
+	{
 		"name": "Mesh 3",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%204.png",
@@ -32,7 +43,8 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
-	},{
+	},
+	{
 		"name": "Mesh 4",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%205.png",
@@ -40,8 +52,8 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
-	}
-,{
+	},
+	{
 		"name": "Mesh 5",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%206.png",
@@ -49,8 +61,32 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
-	}
-,{
+	},{
+		"name": "Mesh 6",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%207.png",
+		"collections": "MESH",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},{
+		"name": "Mesh 7",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Topdown.png",
+		"collections": "MESH",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},{
+		"name": "Mesh 8",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Topdown.png",
+		"collections": "MESH",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
 		"name": "Mute Swan",
 		"author": "David Cohen",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mute%20Swan.png",
@@ -58,7 +94,8 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": ""
-	},{
+	},
+	{
 		"name": "Silhouette",
 		"author": "Elliott Engelmann",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/ssilhoutte.png",
@@ -66,7 +103,8 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": ""
-	},{
+	},
+	{
 		"name": "Silhouette",
 		"author": "Tersius van Rhyn",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Silhoutte.png",
@@ -74,5 +112,14 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": ""
+	},
+	{
+		"name": "Dual Planets",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Dual%20Planets.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
