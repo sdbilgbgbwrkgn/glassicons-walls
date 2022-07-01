@@ -121,5 +121,50 @@
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Dark Woods",
+		"author": "Ben Griffiths",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Dark%20Woods.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Leafy",
+		"author": "Max Kuntscher",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/leafy.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Darker Woods",
+		"author": "Sven Brandsma",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Darker%20Woods.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Strange Ring",
+		"author": "Jeremy Perkins",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Strange%20Ring.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Road is Lava",
+		"author": "Benjamin blattler",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Road%20is%20lava.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
