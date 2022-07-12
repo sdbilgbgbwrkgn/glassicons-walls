@@ -20,7 +20,7 @@
 	{
 		"name": "Mesh 2",
 		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%203.png",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%204.png",
 		"collections": "MESH",
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
@@ -29,31 +29,13 @@
 	{
 		"name": "Mesh 3",
 		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%204.png",
-		"collections": "MESH",
-		"downloadable": true,
-		"dimensions": "1440 x 2560 px",
-		"copyright": "For Personal Use Only, Credits Required"
-	},
-	{
-		"name": "Mesh 4",
-		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%205.png",
-		"collections": "MESH",
-		"downloadable": true,
-		"dimensions": "1440 x 2560 px",
-		"copyright": "For Personal Use Only, Credits Required"
-	},
-	{
-		"name": "Mesh 5",
-		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%206.png",
 		"collections": "MESH",
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
 	},{
-		"name": "Mesh 6",
+		"name": "Mesh 4",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%207.png",
 		"collections": "MESH",
@@ -61,15 +43,7 @@
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
 	},{
-		"name": "Mesh 7",
-		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Topdown.png",
-		"collections": "MESH",
-		"downloadable": true,
-		"dimensions": "1440 x 2560 px",
-		"copyright": "For Personal Use Only, Credits Required"
-	},{
-		"name": "Mesh 8",
+		"name": "Mesh 5",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Topdown.png",
 		"collections": "MESH",
