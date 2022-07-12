@@ -18,21 +18,6 @@
 		"copyright": "For Personal Use Only, Credits Required"
 	},
 	{
-		"name": "Purple Mystery",
-		"author": "Pawel Czerwinski",
-		"url": "https://images.unsplash.com/photo-1654986966034-8f06a66f280a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-		"downloadable": true,
-		"dimensions": "1440 x 2560 px",
-		"copyright": "For Personal Use Only, Credits Required"
-	},{
-		"name": "Light Leak",
-		"author": "Pawel Czerwinski",
-		"url": "https://images.unsplash.com/photo-1651352076676-58a34812f3d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-		"downloadable": true,
-		"dimensions": "1440 x 2560 px",
-		"copyright": "For Personal Use Only, Credits Required"
-	},
-	{
 		"name": "Mesh 2",
 		"author": "Prabhjot Singh",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%203.png",
@@ -93,6 +78,30 @@
 		"copyright": "For Personal Use Only, Credits Required"
 	},
 	{
+		"name": "Mute Swan",
+		"author": "David Cohen",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mute%20Swan.png",
+		"collections": "Unsplash",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": ""
+	},{
+		"name": "Amoled Flower",
+		"author": "Pawel Czerwinski",
+		"url": "sdbilgbgbwrkgn/glassicons-walls/Amoled Flower.png",
+		"collections": "Unsplash",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": ""
+	},{
+		"name": "Mute Swan",
+		"author": "David Cohen",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mute%20Swan.png",
+		"collections": "Unsplash",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": ""
+	},{
 		"name": "Mute Swan",
 		"author": "David Cohen",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mute%20Swan.png",
