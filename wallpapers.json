@@ -9,18 +9,18 @@
 		"copyright": "For Personal Use Only, Credits Required"
 	},
 	{
-		"name": "Planet",
+		"name": "Mesh 1",
 		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Planet.png",
-		"collections": "PLANETS",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%201.png",
+		"collections": "MESH",
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
 	},
 	{
-		"name": "Mesh 1",
+		"name": "Wall",
 		"author": "Prabhjot Singh",
-		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%201.png",
+		"url": "https://images.unsplash.com/photo-1654986966034-8f06a66f280a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
 		"collections": "MESH",
 		"downloadable": true,
 		"dimensions": "1440 x 2560 px",
