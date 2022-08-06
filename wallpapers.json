@@ -246,11 +246,38 @@
 	},
 	{
 		"name": "Fizzzz",
-		"author": "Annie Spratt",
+		"author": "Susan Wilkinson",
 		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/Fizzzz.png?raw=true",
 		"collections": "PLANETS",
 		"downloadable": true,
-		"dimensions": "2799 x 4096 px",
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Retro Sun",
+		"author": "Nathan Watson",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/Retro%20Sun.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Tri Boat",
+		"author": "Red Zeppelin",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/Tri%20Boat.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Necklace",
+		"author": "Jonathan Sanchez",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/Necklace.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "1440 x 2560 px",
 		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
