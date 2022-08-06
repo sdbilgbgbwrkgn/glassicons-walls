@@ -243,6 +243,15 @@
 		"downloadable": true,
 		"dimensions": "2799 x 4096 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Fizzzz",
+		"author": "Annie Spratt",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/Fizzzz.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2799 x 4096 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
 
