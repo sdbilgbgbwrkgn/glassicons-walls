@@ -351,6 +351,42 @@
 		"downloadable": true,
 		"dimensions": "2160 x 3840 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Fluid Blue",
+		"author": "Susan Wilkinson",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/fluid%20blue.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Green Blur",
+		"author": "Prabhjot Singh",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/green%20blur.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Planet Blur",
+		"author": "Prabhjot Singh",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/planet%20blur.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Planet Collided Blur",
+		"author": "Prabhjot Singh",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/planets%20collided%20blur.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
 
