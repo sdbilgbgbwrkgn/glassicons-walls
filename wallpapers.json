@@ -387,6 +387,33 @@
 		"downloadable": true,
 		"dimensions": "2160 x 3840 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Wiring",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Wiring.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Glowy Mountain",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Glowy%20Mountain.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Starry Glow",
+		"author": "Prabhjot Singh",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Starry%20Glow.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
 
