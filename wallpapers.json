@@ -414,6 +414,42 @@
 		"downloadable": true,
 		"dimensions": "2160 x 3840 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Cosmos",
+		"author": "...",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Cosmos.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Fishy Bird",
+		"author": "...",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Fishy%20Bird.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Upside Down",
+		"author": "...",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Upside%20Down.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Upside Down 2",
+		"author": "...",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Upside%20Down%202.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
 
