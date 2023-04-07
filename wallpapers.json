@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Dual Planets",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Dual%20Planets.png",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Mesh 1",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%201.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Mesh 2",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%204.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -28,7 +28,7 @@
 	},
 	{
 		"name": "Mesh 3",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%206.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -36,7 +36,7 @@
 		"copyright": "For Personal Use Only, Credits Required"
 	},{
 		"name": "Mesh 4",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%207.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -44,7 +44,7 @@
 		"copyright": "For Personal Use Only, Credits Required"
 	},{
 		"name": "Mesh 5",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Topdown.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -53,7 +53,7 @@
 	},
 	{
 		"name": "Mesh 6",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Mesh%2066.png",
 		"collections": "MESH",
 		"downloadable": true,
@@ -129,7 +129,7 @@
 	},
 	{
 		"name": "Dual Planets",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Dual%20Planets.png",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -363,7 +363,7 @@
 	},
 	{
 		"name": "Green Blur",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/green%20blur.png?raw=true",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -372,7 +372,7 @@
 	},
 	{
 		"name": "Planet Blur",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/planet%20blur.png?raw=true",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -381,7 +381,7 @@
 	},
 	{
 		"name": "Planet Collided Blur",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/planets%20collided%20blur.png?raw=true",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -390,7 +390,7 @@
 	},
 	{
 		"name": "Wiring",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Wiring.png",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -399,7 +399,7 @@
 	},
 	{
 		"name": "Glowy Mountain",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Glowy%20Mountain.png",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -408,7 +408,7 @@
 	},
 	{
 		"name": "Starry Glow",
-		"author": "Prabhjot Singh",
+		"author": "Prabhjot Designs",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Starry%20Glow.png",
 		"collections": "PLANETS",
 		"downloadable": true,
@@ -467,6 +467,42 @@
 		"collections": "PLANETS",
 		"downloadable": true,
 		"dimensions": "1080 x 1920 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "glowwy",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/glowwy_x4.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "glowwy 2",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/glowwy2_x4.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "glowwy 2",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/glowwy2_x4.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Color Madness",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/color%20madness_x4.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
 		"copyright": "For Personal Use Only, Credits Required"
 	}
 ]
