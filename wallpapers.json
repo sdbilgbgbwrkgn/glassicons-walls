@@ -119,7 +119,7 @@
 		"copyright": ""
 	},
 	{
-		"name": "Silhouette",
+		"name": "Silhouette 2",
 		"author": "Tersius van Rhyn",
 		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Silhoutte.png",
 		"collections": "Unsplash",
@@ -504,7 +504,35 @@
 		"downloadable": true,
 		"dimensions": "2160 x 3840 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "More Silhouette",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/Silhouette.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Soothing Waters 1",
+		"author": "Prabhjot Designs",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/soothing%20waters%202.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Fluid 1",
+		"author": "Prabhjot Designs",
+		"url": "https://raw.githubusercontent.com/sdbilgbgbwrkgn/glassicons-walls/main/fluid%201.png",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "2160 x 3840 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
+
 ]
 
 
