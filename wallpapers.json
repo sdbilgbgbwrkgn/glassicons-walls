@@ -585,6 +585,42 @@
 		"downloadable": true,
 		"dimensions": "4096 x 4096 px",
 		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "LEGO Gauntlet",
+		"author": "Prabhjot Designs",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/lego%20gauntlet.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "4096 x 4096 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Night Car",
+		"author": "Prabhjot Designs",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/night%20car.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "4096 x 4096 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Pole Star",
+		"author": "Prabhjot Designs",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/pole%20star.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "4096 x 4096 px",
+		"copyright": "For Personal Use Only, Credits Required"
+	},
+	{
+		"name": "Raat Di Gedi",
+		"author": "Prabhjot Designs",
+		"url": "https://github.com/sdbilgbgbwrkgn/glassicons-walls/blob/main/raat%20di%20gedi.png?raw=true",
+		"collections": "PLANETS",
+		"downloadable": true,
+		"dimensions": "4096 x 4096 px",
+		"copyright": "For Personal Use Only, Credits Required"
 	}
 
 ]
