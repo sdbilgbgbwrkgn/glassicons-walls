@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.15.0",
-  "latestVersionCode": 20150,
+  "latestVersion": "2.0.14.0",
+  "latestVersionCode": 20140,
   "url": "https://play.google.com/store/apps/details?id=dev.prabhjot.glassicons.app",
   "releaseNotes": [
     "Switched to CandyBar from Blueprint"
